@@ -25,6 +25,7 @@ Download the latest [release](https://github.com/mulfvik/OpenUIforCforUE/release
  * Player Controller Class choose BP_PlayerController
 
 Add Exponential height fog to the level from Visual Effects.
+For each 3D Tiles Tileset you need to add the Cesium Globe Anchor component to it and make it "movable"
 
 ## Want to contribute?
 Please do, contributions are more than welcome. Start with an ["Issue"](https://github.com/mulfvik/OpenUIforCforUE/issues) and reference in your pull request.
