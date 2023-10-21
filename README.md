@@ -10,7 +10,7 @@ OpenUIforCforUE is a open source, blueprint based, UI for use together with the 
 
 ## Features (more is to come)
 
- * World settings - Fog and Time/Month
+ * Settings - Fog and Time/Month
  * Layers - Show/Hide and Fly To
  * Metadata infowindow
  * Screenshot
@@ -27,7 +27,7 @@ Download the latest [release](https://github.com/mulfvik/OpenUIforCforUE/release
 Add Exponential height fog to the level from Visual Effects.
 
 ## Want to contribute?
-I happily accept contributions of any kind.
+Please do, contributions are more than welcome. Start with an ["Issue"](https://github.com/mulfvik/OpenUIforCforUE/issues) and reference in your pull request.
 
 ## Found an issue?
 For all bugs and feature requests please use ["Issues"](https://github.com/mulfvik/OpenUIforCforUE/issues).
