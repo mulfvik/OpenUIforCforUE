@@ -6,7 +6,7 @@ Open UI for Cesium for Unreal Engine
 
 ## What is OpenUIforCforUE?
 
-OpenUIforCforUE is a open source, blueprint based, UI for use together with the [Unreal Engines](https://github.com/EpicGames/UnrealEngine) plugin [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal).
+OpenUIforCforUE is a open source, blueprint based, UI for use together with the plugin [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal).
 
 ## Features (more is to come)
 
