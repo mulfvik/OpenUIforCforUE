@@ -24,11 +24,12 @@ Download the latest [release](https://github.com/mulfvik/OpenUIforCforUE/release
  * Default Pawn Class choose DynamicPawn
  * Player Controller Class choose BP_PlayerController
 
-Add Exponential height fog to the level from Visual Effects.
-For each 3D Tiles Tileset you need to add the Cesium Globe Anchor component to it and make it "movable"
+Add Exponential height fog to the level, you find it under Visual Effects.
+For each 3D Tiles Tileset you need to add the Cesium Globe Anchor component to it and make it "movable". ["Read more"](https://cesium.com/learn/unreal/unreal-flyto/#step-5-fly-to-geo-markers).
+It is possible to render a image in the metadata infowindow if the 3D Tileset has an attribute named "image_url" with a stored url to an image eg. https://img.com?q=my-image.png.
 
 ## Want to contribute?
-Please do, contributions are more than welcome. Start with an ["Issue"](https://github.com/mulfvik/OpenUIforCforUE/issues) and reference in your pull request.
+Contributions are more than welcome. Start with an ["Issue"](https://github.com/mulfvik/OpenUIforCforUE/issues) and reference it in your pull request.
 
 ## Found an issue?
 For all bugs and feature requests please use ["Issues"](https://github.com/mulfvik/OpenUIforCforUE/issues).
