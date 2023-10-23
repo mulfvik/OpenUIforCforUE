@@ -11,8 +11,11 @@ OpenUIforCforUE is a open source, blueprint based, UI for use together with the 
 ## Features (more is to come)
 
  * Settings - Fog and Time/Month
+   ![ui_cesium_unreal2](https://github.com/mulfvik/OpenUIforCforUE/assets/24228538/aeb192fe-e7e6-4c6e-9341-12350d4b7743)
  * Layers - Show/Hide and Fly To
+   ![ui_cesium_unreal3](https://github.com/mulfvik/OpenUIforCforUE/assets/24228538/3ae3f832-1531-4aa4-a793-1fd9eb258d3e)
  * Metadata infowindow
+   ![ui_cesium_unreal1](https://github.com/mulfvik/OpenUIforCforUE/assets/24228538/5dbcdf01-194c-47cc-8f31-a52f2ac501b6)
  * Screenshot
 
 ## How to get started
