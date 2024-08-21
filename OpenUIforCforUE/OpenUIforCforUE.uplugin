@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/mulfvik/OpenUIforCforUE/blob/main/README.md",
 	"MarketplaceURL": "",
 	"SupportURL": "https://github.com/mulfvik/OpenUIforCforUE/issues",
-	"EngineVersion": "5.1.0",
+	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
 	"Installed": true
 }
