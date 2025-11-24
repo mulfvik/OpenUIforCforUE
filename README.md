@@ -27,7 +27,7 @@ Download proper [release](https://github.com/mulfvik/OpenUIforCforUE/releases/) 
 
 Add Exponential height fog to the level, you find it under Visual Effects.\
 Set an accurate sun ["Follow tutorial"](https://cesium.com/learn/unreal/unreal-geospatially-accurate-sun/).\
-For each tileset you need to add the Cesium Globe Anchor component to it and make it "movable" for the fly to functionality. ["Read more"](https://cesium.com/learn/unreal/unreal-flyto/#step-5-fly-to-geo-markers).\
+For each model you need to add the Cesium Globe Anchor component to it and make it "movable" for the fly to functionality. ["Read more"](https://cesium.com/learn/unreal/unreal-flyto/#step-5-fly-to-geo-markers).\
 It is possible to render a image in the metadata infowindow if the 3D Tileset has an attribute named "image_url" with a stored url to an image eg. https://img.com?q=my-image.png.
 
 ## Want to contribute?
